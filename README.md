@@ -2,6 +2,10 @@
 
 This project focuses on sentiment analysis for the Kannada language. The main goal is to classify input Kannada sentences into different emotions such as sad, happy, fear, and angry. Sentiment analysis is a subfield of natural language processing that involves determining the sentiment or emotion expressed in a given piece of text.
 
+**Note:** This project is focused on sentiment analysis for Kannada language text. It does not include a graphical user interface (GUI) for interaction. The output of the sentiment analysis is displayed in the IDE terminal when the provided script is run.
+
+If you're looking for a GUI-based application, this project might not meet that requirement. However, if you're interested in programmatically analyzing Kannada text sentiment, you'll find this project's script useful.
+
 ## Features
 
 - Input: Kannada sentences
