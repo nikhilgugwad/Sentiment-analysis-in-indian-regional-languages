@@ -22,11 +22,3 @@ If you're looking for a GUI-based application, this project might not meet that 
 4. **Inference**: Deploy the trained model to make predictions on new Kannada sentences.
 
 5. **Visualization**: Visualize the predicted emotions using graphs or charts to provide insights into the sentiment distribution.
-
-## How to Use
-
-1. Clone this repository:
-
-   ```bash
-   git clone https://github.com/your-username/your-repo.git
-   cd your-repo
