@@ -1,4 +1,4 @@
-# Sentiment Analysis for Kannada Language
+# Sentiment Analysis for Indian Regional Language
 
 This project focuses on sentiment analysis for the Kannada language. The main goal is to classify input Kannada sentences into different emotions such as sad, happy, fear, and angry. Sentiment analysis is a subfield of natural language processing that involves determining the sentiment or emotion expressed in a given piece of text.
 
